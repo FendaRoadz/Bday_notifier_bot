@@ -9,7 +9,8 @@ README  version 0.1
     Bday_notifier_bot is a simple tool, that sends you a message, 
     who of your friends has a birthday today.
     
-    Bot collects information about people from any public profile on vk.com.
+    Bot collects information about people from any public profile on vk.com
+    and sends it to telegram.
     Private profiles doesn't implemented yet. Furthermore i even cannot 
     collect info about my personal friends :D
     
